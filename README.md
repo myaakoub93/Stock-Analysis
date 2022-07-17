@@ -17,7 +17,7 @@ There are two major takeaways from this project:
 Through the use of VBA, we were able to utilize many functions, variables, and arguments to automatically analyze the stocks Steve provided. As seen in the photo above there were major differences in the performance of most of these stocks between 2017 and 2018. The only stocks that continued to perform well in consecutive years were ENPH and RUN. The other Major finding is that DQ's performance dropped severly and is the very reason for Steve's concern of his parent's lack of diversification. However, this automated analysis now provides Steve with a few options to consider when offering new investment opportunities to his parents.
 
 ### Refactorization 
-<img src="https://github.com/yaakoum/stock-analysis/blob/main/Pre-Refactoring%20Timers/Pre_Refactoring_2018.png" width="450" height="300" />                 <img src="https://github.com/myaakoub93/Stock-Analysis/blob/main/Resources/Refactored%20-%20VBA_Challenge_2018.png" width="400" height="300" />
+<img src="https://github.com/myaakoub93/Stock-Analysis/blob/main/Resources/Refactored%20-%20VBA_Challenge_2018.png" width="450" height="300" />                 <img src="https://github.com/myaakoub93/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png" width="400" height="300" />
 
 As you can tell, there was a major boost in perforamnce after refactoring the code. Above is a screenshot for the timer of the same year analysis before and after the refactoring. The improved code is now more than 4 times faster. The major difference in the code was the use of more arrays and refraining from using "nested for loops". To visualize what this would look like, here is an example of how a nested for loop works:
 
