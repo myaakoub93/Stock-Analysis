@@ -1,14 +1,13 @@
 # Stock-analysis
-To view the results first hand, please click this link to access the Excel file: [VBA Challenge - Stock Analysis](https://github.com/yaakoum/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Overview of Project
-Steve has recently graduated with his finance degree. His parents are very proud of him and would like to become his first clients. They have a problem with putting all their eggs in one basket and Steve has become concerned with their lack of diversification. He promised he would look into DQ stock that they're invested in as well as a list of other stocks that are in the renewable energy sector. 
+Steve recently graduated and his degree was in finance. He was able to convince his parents to be his client with stocks portfolio. Steve advised his parents to change the portfolio and to have more diversification and he promised to consider DQ stock and other renewable energy sector stocks. 
 
 ### Purpose
-Steve has provided a large list of stocks with extensive data. The dataset is simply too large to analyze manually and can open room for error. Hence why he has come to ask for our assistance in automating these processes. With the use of Visual Basics for Application (VBA) and functions like "for loops" and "if functions", we were able to completely automate the process for him. Not only that but we went a step further to refactor the code and make it run quicker and more efficiently. 
+The data set right now with all stocks to manually analyze and we are here to help Steve analyzing the stocks using VBA tools. Our purpose is to be able to automate the process for a list of any stocks with the same format using VBA and assossiated tools like for loops and if statements. We also performed a refactor to make the code to run faster. You can view the results by clicking this link to access the Excel file: [VBA Challenge - Stock Analysis](https://github.com/myaakoub93/Stock-Analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Results
-As menioned in the overview, there were two major takeaways from this project:
+There are two major takeaways from this project:
 1. The analysis has been automated and Steve can now assist his parents in diversifying their portfolio;
 2. The code has been refactored and optimized making it more efficient and able to take on more data if Steve chooses to analyze more stocks.
 
