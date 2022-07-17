@@ -12,7 +12,7 @@ There are two major takeaways from this project:
 2. The code has been refactored and optimized making it more efficient and able to take on more data if Steve chooses to analyze more stocks.
 
 ### Automation 
-<img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2017.png" width="200" height="200" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.png" width="200" height="200" />
+<img src="https://github.com/myaakoub93/Stock-Analysis/blob/main/Table%20-%20Stock%20Performance/VBA_Challenge_2017-Table%20Results.png.png" width="200" height="200" />                 <img src="https://github.com/myaakoub93/Stock-Analysis/blob/main/Table%20-%20Stock%20Performance/VBA_Challenge_2018-Table%20Results.png.png" width="200" height="200" />
 
 Through the use of VBA, we were able to utilize many functions, variables, and arguments to automatically analyze the stocks Steve provided. As seen in the photo above there were major differences in the performance of most of these stocks between 2017 and 2018. The only stocks that continued to perform well in consecutive years were ENPH and RUN. The other Major finding is that DQ's performance dropped severly and is the very reason for Steve's concern of his parent's lack of diversification. However, this automated analysis now provides Steve with a few options to consider when offering new investment opportunities to his parents.
 
